@@ -24,7 +24,7 @@ Conditional Statements
 Range Function
 Printing & Formatting
 ▶️ How to Run
-git clone https://github.com/HarshSaraswat30/Patter-Project.git
+git clone https://github.com/HarshSaraswat30/Patter-Project-/tree/main
 cd Patter-Project
 python pattern.py
 🎯 Project Objective
